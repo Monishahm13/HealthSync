@@ -119,7 +119,7 @@ Separate dashboards for:
 
 # Installation and Setup
 
-git clone <repository-url>
+git clone <https://github.com/Monishahm13/HealthSync>
 
 Install Dependencies
 
